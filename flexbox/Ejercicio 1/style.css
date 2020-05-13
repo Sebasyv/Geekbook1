@@ -1,0 +1,23 @@
+section{
+    width: 500px;
+    height: 500px;
+    border:solid black;
+}
+
+div{
+    width: 100%;
+    background-color: blueviolet;
+    border-bottom:solid black;
+}
+
+#numerodos{
+    display: flex;
+    width: 500px;
+    height: 500px;
+    border:solid black;
+}
+
+#hola{
+    width: 3%;
+    border-right:solid black;
+}

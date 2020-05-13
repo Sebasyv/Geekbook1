@@ -1,0 +1,62 @@
+body{
+    max-width: 350px;
+    background-color: #F1F1F1;
+    border: solid red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+form{
+    margin: 20px
+}
+
+label{
+    font-size: small;
+   
+}
+
+input{
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+b{
+    margin-bottom: 200px;
+}
+#dia{
+    width: 15%;
+    margin-right:2%;
+    text-align: center;
+    justify-content: center;
+}
+#mes{
+    width:45%;
+    height: 22px;
+    margin-right: 2%;
+}
+#año{
+    width:31%;
+}
+
+#sexo{
+    width: 100%;
+    height: 22px;
+}
+#ubica{
+    width: 100%;
+}
+
+button{
+    position: relative;
+    left: 210px;
+    top: 20px;
+    margin-bottom: 50px;
+    border-radius: 10%;
+    background-color: #347CEF;
+    height: 30px;
+    color: white;
+    
+}

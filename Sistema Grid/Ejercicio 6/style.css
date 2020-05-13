@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+
+#doce{
+    background-color: lightcoral;
+    border:solid black;
+}
+
+#seis{
+    background-color: lightcyan;
+    border:solid black;
+}
+
+#cuatro{
+    background-color: lightyellow;
+    border:solid black;
+}
+
+#dos{
+    background-color: lightseagreen;
+    border:solid black;
+}
+
+#uno{
+    background-color: lightslategrey;
+    border:solid black;
+}

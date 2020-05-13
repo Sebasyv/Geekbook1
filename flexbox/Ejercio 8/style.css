@@ -1,0 +1,43 @@
+header{
+    background-color: rgb(107, 105, 105);
+    width: 100%;
+    margin: 0%;
+
+}
+
+#cabecera{
+    max-width: 600px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    margin: 0px auto;
+    color: white;
+}
+
+a{
+    margin-left: 10px;
+    color: white;
+}
+
+main{
+    max-width: 600px;
+    margin: 0px auto;
+    margin-bottom: 5%;
+
+}
+
+#final{
+    max-width: 600px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    margin: 0px auto;
+    
+}
+
+#final a{
+    margin-left: 10px;
+    color: black;
+}

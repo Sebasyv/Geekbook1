@@ -1,0 +1,48 @@
+body{
+    display: grid;
+    grid-template-columns: 12;
+    grid-template-rows: 10;
+    height: 50vh;
+    color: white;
+    text-align: center;
+}
+
+header{
+    grid-column: span 12;
+    grid-row: span 2;
+    background-color:#FEC1CC ;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+
+.menu{
+    grid-column: span 4;
+    grid-row: span 6;
+    background-color:#4A0E80 ;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.contenido{
+    grid-column: span 8;
+    grid-row: span 6;
+    align-items: center;
+    background-color:#CB5C5E ;
+    justify-content: center;
+    display: flex;
+
+}
+
+footer{
+    grid-column: span 12;
+    grid-row: span 2;
+    align-items: center;
+    background-color:#AED8E5;
+    display: flex;
+    justify-content: center;
+
+
+}

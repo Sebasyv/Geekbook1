@@ -1,0 +1,33 @@
+body{
+    width: 100%;
+    max-width: 960px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header{
+    background-color: #FF6347;
+    width: 100%;
+}
+
+#uno{
+    background-color: #FFD700;
+    width: 10%;
+}
+
+#dos{
+    background-color:#FF69B4 ;
+    width: 10%;
+}
+
+article{
+    background-color: #00BFFF;
+    width: 80%;
+}
+
+footer{
+    background-color: lightgreen;
+    width: 100%;
+}
+

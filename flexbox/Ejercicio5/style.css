@@ -1,0 +1,18 @@
+*{
+    margin:0%;
+}
+
+header{
+    height: 10vh;
+    border: solid rebeccapurple;
+    background-color: lightblue;
+}
+
+main{
+    min-height: 85vh;
+    background-color: lightcoral;
+}
+
+footer{
+    border: solid lightgreen;
+}

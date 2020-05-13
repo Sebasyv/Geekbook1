@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+header{
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    background-color: purple;
+    color: white;
+    align-items: center;
+}
+
+main{
+    margin: 0 auto;
+    width: 80%;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#cookies{
+    text-align: right;
+    position: fixed;
+    bottom:0%;
+    right: 0%;
+    background-color: teal;
+    width: 100%;
+}

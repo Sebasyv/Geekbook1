@@ -1,0 +1,72 @@
+body {
+    width: 100%;
+    max-width:840px;
+    border:solid black;
+    border-radius:20px;
+    display: flex;
+}
+#foto {
+display: block;
+}
+#centro{
+    width: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+#cita{
+    display: flex;
+    align-content: space-around; 
+}
+
+#reserva{
+    margin:1% 8% 1% 8%;
+}
+#pedir{
+    margin:1% 8% 1% 0%;
+}
+
+#derecha{
+    margin-left: 40%;
+    margin-right: 0%;
+    display: flex;
+}
+
+#valo{
+    margin-bottom: 0%;
+}
+
+#ver{
+    margin-top: 1%;
+    color: gray;
+}
+
+#defisio{
+    margin-bottom: 1%;
+}
+
+#puntaje{
+    width: 40%;
+    background-color: darkgray;
+    height: 20%;
+    text-align: center;
+    border-radius: 20%;
+    margin: 10px;
+}
+
+button{
+    border-radius: 10%;
+}
+
+.fisio{
+    width: 90%;
+}
+
+.estrella{
+    width: 40%;
+}
+
+#puntuacion{
+    text-align: center;
+    align-items: center;
+}

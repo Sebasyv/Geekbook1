@@ -1,0 +1,15 @@
+th{
+     background-color: white;
+     Color: black;
+     padding: 4px 30 px;
+}
+table{
+     background-color: lightgrey;
+}
+table, th, td ,tr{
+     border-collapse: collapse;
+     border:solid black;
+     }
+td {
+     text-align: center 
+}

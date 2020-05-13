@@ -1,0 +1,15 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(210, 255, 240);
+    margin-bottom: 10px;   
+    display: none;
+   /*
+    ;
+    display: none;
+    display: block;
+    display: inline;*/ 
+}
+
+
+    

@@ -1,0 +1,42 @@
+body{
+    height: 450px;
+    color: white;
+}
+
+img{
+    width: 100%;
+    height: 150px;
+}
+
+#doce{
+    background-color: #099D8D;
+    height: 150px;
+
+}
+
+#cuatro{
+    background-color: #099D8D;
+    height: 150px;
+
+}
+
+#gatos{
+    padding: 0%;
+    margin: 0%;
+    height: 150px;
+
+}
+
+#texto{
+    background-color: #099D8D;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    text-align: center;
+
+}
+
+h3,p {
+    position: relative;
+    top:50px;
+}

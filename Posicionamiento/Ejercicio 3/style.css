@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+
+header{
+    background-color: blueviolet;
+    height: 5vh;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+main{
+    margin: 0 80px;
+    position: relative;
+    top: 6vh;
+}
